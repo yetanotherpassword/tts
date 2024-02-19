@@ -1,0 +1,4743 @@
+0|00500
+1|00501
+1 thousand foot wind|00003
+10|00004
+11|00005
+12|00006
+13|00007
+14|00008
+15|00009
+16|00010
+17|00011
+18|00012
+19|00013
+2|00502
+2 thousand foot wind|00015
+20|00016
+21|00017
+22|00018
+23|00019
+23 thousand|00020
+24|00021
+25|00022
+25 metre range|00023
+26|00024
+27|00025
+28|00026
+29|00027
+3|00503
+30|00029
+4|00504
+40|00031
+5|00505
+5 hundred foot wind|00033
+50|00034
+6|00506
+60|00036
+7|00507
+70|00038
+8|00508
+80|00040
+9|00509
+90|00042
+a|01000
+a half|01001
+A4|01002
+A6|01003
+AA|01004
+AACC|01005
+abatement|01006
+abbreviated|01007
+abeam|01008
+Aberfoyle|01009
+able|01010
+abort|01011
+about|01012
+above|01013
+above aerodrome|01014
+above aerodrome level|01015
+above airport|01016
+above ground|01017
+above ground level|01018
+above mean sea level|01019
+above mountains|01020
+abrupt|01021
+ACARS|01022
+ACAS|01023
+ACC|01024
+accelerate|01025
+accelerate stop distance available|01026
+accept|01027
+accepted|01028
+access|01029
+accident|01030
+accidents|01031
+ACD|01032
+acknowledge|01033
+across|01034
+ACT|01035
+action|01036
+activated|01037
+active|01038
+activity|01039
+actual|01040
+actual time of arrival|01041
+actual time of departure|01042
+addition|01043
+additional|01044
+additionally|01045
+Adelaide|01046
+Adervale|01047
+ADF|01048
+ADIZ|01049
+adjacent|01050
+adjacent to|01051
+ADS|01052
+ADS-B|01053
+ADS-C|01054
+advance|01055
+advanced|01056
+advanced surface movement guidance|01057
+advice|01058
+advice current|01059
+advise|01060
+advised|01061
+advises|01062
+advising|01063
+advisories|01064
+advisory|01065
+advisory centre|01066
+advisory route|01067
+aerial|01068
+aerial work|01069
+AERIS|01070
+Aeroclub|01071
+aerodrome|01072
+aerodrome and fire fighting category|01073
+aerodrome beacon|01074
+aerodrome chart|01075
+aerodrome closed|01076
+aerodrome closed to all operations|01077
+aerodrome conditions|01078
+aerodrome control|01079
+aerodrome emergency exercise|01080
+aerodrome emergency plan|01081
+aerodrome frequency response unit|01082
+aerodrome is non controlled|01083
+aerodrome obstacle chart|01084
+Aerodrome partially covered by fog|01085
+aerodrome reference point|01086
+aerodrome traffic zone|01087
+aerodrome weather|01088
+aerodrome weather information service|01089
+aerodrome works|01090
+aerodromes|01091
+aeronautical|01092
+aeronautical chart|01093
+aeronautical database|01094
+aeronautical fixed service|01095
+aeronautical information|01096
+aeronautical information circular|01097
+Aeronautical Information Publication|01098
+Aeronautical Information Publication Supplement|01099
+aeronautical information service|01100
+Aeropelican|01101
+aeroplane|01102
+aeroplane reference field length|01103
+aeroplanes|01104
+aerospace|01105
+affect|01106
+affected|01107
+affecting|01108
+affirm|01109
+AFS|01110
+after|01111
+after hours|01112
+after passing|01113
+after time|01114
+afternoon|01115
+AFTN|01116
+again|01117
+AGL|01118
+AIC|01119
+aid|01120
+aids|01121
+AIP|01122
+AIP Sup|01123
+AIP Supplement|01124
+air|01125
+air defence|01126
+air ground|01127
+air pressure|01128
+air report|01129
+air show|01130
+air shows|01131
+air shows down under|01132
+air speed|01133
+air temperature|01134
+air to air|01135
+air to ground|01136
+air traffic control|01137
+air traffic flow management|01138
+air traffic management|01139
+air traffic services|01140
+air traffic services and aerodrome|01141
+AIRAC|01142
+airborne|01143
+Airbus|01144
+Airbus 300|01145
+Airbus 310|01146
+Airbus 320|01147
+Airbus 330|01148
+Airbus 340|01149
+Airbus 350|01150
+Airbus 360|01151
+Airbus 370|01152
+Airbus 380|01153
+Airbus 390|01154
+aircraft|01155
+aircraft and all ground operators|01156
+aircraft are requested|01157
+aircraft classification number|01158
+aircraft from east|01159
+aircraft from east and north|01160
+aircraft from east and south|01161
+aircraft from north|01162
+aircraft from north and east|01163
+aircraft from north and west|01164
+aircraft from south|01165
+aircraft from south and east|01166
+aircraft from south and west|01167
+aircraft from west|01168
+aircraft from west and north|01169
+aircraft from west and south|01170
+aircraft landing area|01171
+aircraft landing minima|01172
+aircraft type|01173
+aircraft with wingspan|01174
+airep|01175
+airfield|01176
+airforce|01177
+airline|01178
+airlines|01179
+airmet|01180
+airport|01181
+airports|01182
+Airservices|01183
+Airservices Australia|01184
+airship|01185
+airspace|01186
+airspace closed within|01187
+airspeed|01188
+airway|01189
+airways|01190
+airways clearance|01191
+airways clearance delivery|01192
+AIS|01193
+ALA|01194
+alarm|01195
+Albany|01196
+Albert|01197
+Albert Park Lake|01198
+Albury|01199
+ALERFA|01200
+alert|01201
+alert phase|01202
+alerted|01203
+alerting|01204
+alerts|01205
+Alice Springs|01206
+all|01207
+all aircraft|01208
+all aircraft receiving this message|01209
+all categories|01210
+all cross wind|01211
+all departing aircraft|01212
+all departures|01213
+all operations suspended|01214
+all runways|01215
+all stations|01216
+All stations Australian VOLMET|01217
+all up weight|01218
+all vehicles|01219
+all VFR aircraft|01220
+all VFR aircraft remain outside|01221
+allocate|01222
+allocated|01223
+allocation|01224
+allow|01225
+allowed|01226
+allowing|01227
+along|01228
+Alpha|01229
+Alpha and Bravo|01230
+Alpha and Charlie|01231
+Alpha Bravo and Charlie|01232
+alternate|01233
+alternate frequency|01234
+alternate runways available|01235
+alternating|01236
+alternative|01237
+altimeter|01238
+altimetry|01239
+altimetry system error|01240
+altitude|01241
+alto|01242
+altocumulus|01243
+altostratus|01244
+Amberley|01245
+ambulance|01246
+amend|01247
+amended|01248
+amended to|01249
+amending|01250
+amendment|01251
+amends|01252
+AMHS|01253
+amount|01254
+AMSL|01255
+an|01256
+an appropriate ATC frequency|01257
+and|01258
+and above|01259
+and below|01260
+and control system|01261
+and hold|01262
+and may recur|01263
+anemometer|01264
+anemometers|01265
+animal|01266
+animals|01267
+Antenov|01268
+any|01269
+APAPI|01270
+applicable|01271
+applies|01272
+apply|01273
+applying|01274
+approach|01275
+approach control|01276
+approach control service|01277
+approach control services|01278
+approach control unit|01279
+approach end cable|01280
+approach frequency|01281
+approach lighting system|01282
+approach lights|01283
+approach path|01284
+approach services|01285
+approaches|01286
+approaching|01287
+appropriate|01288
+approval|01289
+approve|01290
+approved|01291
+approved A330 type|01292
+approved operations|01293
+approving|01294
+approximate|01295
+approximately|01296
+April|01297
+apron|01298
+aprons|01299
+Arcadia|01300
+Archerfield|01301
+are|01302
+are advised|01303
+are not available|01304
+are requested|01305
+are restricted to|01306
+area|01307
+area approach control centre|01308
+area control|01309
+area control centre|01310
+area forecast|01311
+area navigation|01312
+Area QNH|01313
+area QNH zone|01314
+area surveillance radar|01315
+areas|01316
+arfor|01317
+arm|01318
+Armadale|01319
+armed|01320
+arming|01321
+arms|01322
+army|01323
+around|01324
+Arrabury|01325
+arrange|01326
+arranged|01327
+arranging|01328
+arrestor|01329
+arrestor cable|01330
+arrival|01331
+arrival information|01332
+arrival procedure|01333
+arrival terminal information|01334
+arrivals|01335
+arrivals terminal information|01336
+arrive|01337
+arrives|01338
+arriving|01339
+as|01340
+as per|01341
+as soon as possible|01342
+ASAP|01343
+ascend|01344
+ascending|01345
+ascending to|01346
+ascent|01347
+ascent to|01348
+ash|01349
+asphalt|01350
+assess|01351
+assessment|01352
+assigned|01353
+assigning|01354
+associated|01355
+associated with|01356
+at|01357
+at 1 thousand feet|01358
+at 2 5 0 feet|01359
+at 2 thousand feet|01360
+at 5 hundred feet|01361
+at holding point|01362
+at sea|01363
+at the coast|01364
+at time|01365
+at up wind end|01366
+AT-VASIS|01367
+ATA|01368
+ATC|01369
+ATC experiencing system failure|01370
+ATD|01371
+Atherton|01372
+ATIS|01373
+atmospherics|01374
+ATN|01375
+ATS|01376
+attack|01377
+attempt|01378
+attempt to contact|01379
+attempt to contact tower on|01380
+attention|01381
+augmentation|01382
+augmented|01383
+August|01384
+Augusta|01385
+Augustus|01386
+Aussie|01387
+Australia|01388
+Australian|01389
+Australian Capital Territory|01390
+Australian VOLMET out|01391
+authorisation|01392
+authorised|01393
+authorising|01394
+auto|01395
+automated|01396
+automated weather observation|01397
+automatic|01398
+automatic aerodrome information service|01399
+automatic dependent surveillance|01400
+automatic direction finding equipment|01401
+automatic terminal information|01402
+Automatic Terminal Information Service|01403
+Automatic weather information broadcast|01404
+automatic weather information service|01405
+Automatic Weather Station|01406
+automatically|01407
+autonomous|01408
+auxiliary|01409
+AV8B|01410
+availability|01411
+available|01412
+available for departure|01413
+available for departures|01414
+available length|01415
+Avalon|01416
+Avalon East|01417
+average|01418
+AVGAS|01419
+aviation|01420
+aviation reference number|01421
+AVNEX|01422
+avoid|01423
+AVTUR|01424
+away|01425
+AWIB|01426
+AWIS|01427
+AWS|01428
+AWS aerodrome weather at|01429
+Ayers Rock|01430
+Ayr|01431
+azimuth|01432
+B|02000
+B52|02001
+Baatar|02002
+back|02003
+back track|02004
+back tracking|02005
+backed|02006
+backing|02007
+bad|02008
+badger|02009
+Baghdad|02010
+Bairnesdale|02011
+Ballarat|02012
+Ballidu|02013
+balloon|02014
+balloons|02015
+band|02016
+bank|02017
+banks|02018
+Bankstown|02019
+banner|02020
+bar|02021
+Barcaldine|02022
+barometric|02023
+Barraba|02024
+Barraldine|02025
+barrier|02026
+barriers|02027
+bars|02028
+Barwon|02029
+Barwon Prison|02030
+Barwon West|02031
+base|02032
+based|02033
+Bassett|02034
+bat|02035
+bath|02036
+Bathurst|02037
+bats|02038
+battery|02039
+bay|02040
+bays|02041
+be|02042
+Be alert for other traffic|02043
+beach|02044
+beacon|02045
+bearing|02046
+beauty|02047
+become|02048
+becoming|02049
+Bedourie|02050
+Beech|02051
+Beechcraft|02052
+been|02053
+Beenlee|02054
+beep|02055
+Beermullah|02056
+before|02057
+behind|02058
+being|02059
+Bellenden Kerr|02060
+below|02061
+below 1 0 thousand feet|02062
+below 1 1 thousand feet|02063
+below 1 2 thousand feet|02064
+below 1 thousand feet|02065
+below 2 3 thousand kilograms|02066
+below 2 thousand feet|02067
+below 3 thousand feet|02068
+below 4 thousand feet|02069
+below 5 thousand feet|02070
+below 6 thousand feet|02071
+below 7 thousand feet|02072
+below 8 thousand feet|02073
+below 9 thousand feet|02074
+below clouds|02075
+Bendigo|02076
+best|02077
+between|02078
+between apron and|02079
+between layers|02080
+beware|02081
+beware of|02082
+bi|02083
+Bindi|02084
+Bindoon|02085
+Bingara|02086
+bird|02087
+bird hazard exists|02088
+birds|02089
+birds in area|02090
+bitumen|02091
+black|02092
+Blackall|02093
+Blackhawk|02094
+Blackwater|02095
+blast|02096
+blasting|02097
+block|02098
+blocked|02099
+blocking|02100
+blocks|02101
+blowing|02102
+blowing dust|02103
+blowing sand|02104
+blowing snow|02105
+blowing spray|02106
+blue|02107
+board|02108
+boards|02109
+Boatman|02110
+bodied|02111
+body|02112
+Boeing|02113
+Boeing 707|02114
+Boeing 717|02115
+Boeing 727|02116
+Boeing 737|02117
+Boeing 747|02118
+Boeing 757|02119
+Boeing 767|02120
+Boeing 777|02121
+Boeing 787|02122
+Boeing 797|02123
+Bolga|02124
+Bolinda|02125
+Bollon|02126
+Bolte|02127
+bomb|02128
+bomber|02129
+bombers|02130
+bombing|02131
+bombs|02132
+Bondi|02133
+Bordertown|02134
+Botany|02135
+Botany Bay|02136
+both|02137
+both runways|02138
+Boulia|02139
+bound|02140
+boundary|02141
+Bowen|02142
+brake|02143
+braking|02144
+braking action|02145
+Brasilia|02146
+Brasilia 120|02147
+Bravo|02148
+Bravo and Charlie|02149
+breakthrough|02150
+breeze|02151
+Brewarrina|02152
+bridge|02153
+briefing|02154
+briefing office|02155
+briefings|02156
+bright|02157
+brighten|02158
+Brighton|02159
+Brisbane|02160
+Brisbane FIR|02161
+British|02162
+British Aerospace|02163
+broadcast|02164
+Broadcast intentions on|02165
+broadcast station|02166
+broadcasting|02167
+broadcasting station|02168
+broadcasts|02169
+broken|02170
+Broken Hill|02171
+Broome|02172
+brown|02173
+Brunswick|02174
+building|02175
+buildings|02176
+bull|02177
+bulletin|02178
+Bulloo|02179
+bump|02180
+bumps|02181
+Bundaberg|02182
+bureau|02183
+Bureau of Meteorology|02184
+Burketown|02185
+bush|02186
+bushfire|02187
+bushfires|02188
+but|02189
+by|02190
+by aircraft|02191
+by emergency services|02192
+Byron|02193
+C|03000
+C130|03001
+C17|03002
+C47|03003
+cab|03004
+cabin|03005
+cable|03006
+cables|03007
+Cairns|03008
+calibration|03009
+calibrator|03010
+call|03011
+calling|03012
+callsign|03013
+calm|03014
+Camden|03015
+Camooweal|03016
+can|03017
+Canadair|03018
+Canberra|03019
+cancel|03020
+cancellation|03021
+cancelled|03022
+cancelling|03023
+Canobie|03024
+capability|03025
+capable|03026
+capacity|03027
+car race|03028
+care|03029
+cargo|03030
+Caribou|03031
+Carnarvon|03032
+carriage|03033
+carried|03034
+carry|03035
+carrying|03036
+Cartwright|03360
+cat|03037
+Cat 1 holding points in use|03038
+categories|03039
+category|03040
+cause|03041
+caused|03042
+caused by|03043
+causing|03044
+caution|03045
+Caversham|03046
+CAVOK|03047
+CAWLY|03048
+CB|03049
+CBs|03050
+CCK|03051
+cease|03052
+ceased|03053
+ceases|03054
+Ceduna|03055
+ceiling|03056
+cell|03057
+Celsius|03058
+CENSAR|03059
+centimetres|03060
+centre|03061
+centre and left|03062
+centre and right|03063
+centre field|03064
+centre field wind|03065
+centre line|03066
+centre line lighting|03067
+centre line lights|03068
+centred|03069
+certified|03070
+Cessna|03071
+Cessnock|03072
+Challenger|03073
+change|03074
+change frequency to|03075
+changed|03076
+changeover|03077
+changeover point|03078
+changes|03079
+changing|03080
+channel|03081
+Chapman|03082
+characteristic|03083
+characteristics|03084
+Charleville|03085
+Charlie|03086
+Charon|03087
+chart|03088
+charter|03089
+Charters|03090
+charts|03091
+check|03092
+check NOTAMs|03093
+check your VHF sets|03094
+checks|03095
+Chillagoe|03096
+Chinook|03097
+chopper|03098
+choppers|03099
+christmas|03100
+chutes|03101
+circling|03102
+circling approach|03103
+circuit|03104
+circuits|03105
+circular|03106
+cirrocumulus|03107
+cirrostratus|03108
+cirrus|03109
+Citation|03110
+city|03111
+civil|03112
+civil aviation|03113
+civil aviation order|03114
+civil aviation orders|03115
+civil aviation regulation|03116
+civil aviation regulations|03117
+Civil Aviation Safety Authority|03118
+Clackline|03119
+class|03120
+class charlie airspace|03121
+class charlie and delta airspace|03122
+classification|03123
+classified|03124
+classify|03125
+clear|03126
+clear air turbulence|03127
+clear of the runway|03128
+clearance|03129
+clearance delivery|03130
+clearance expiry time|03131
+clearances|03132
+cleared|03133
+cleared flight level|03134
+cleared to|03135
+cleared visual approach|03136
+clearing|03137
+clearway|03138
+Clermont|03139
+Clifton|03140
+Clifton Springs|03141
+climb|03142
+climb gradient|03143
+climb to|03144
+climbing|03145
+climbing to|03146
+climbs|03147
+Cloncurry|03148
+close|03149
+close to|03150
+closed|03151
+closed to all aircraft|03152
+closed to all operations|03153
+closer|03154
+closes|03155
+closest|03156
+closing|03157
+closure|03158
+closures|03159
+cloud|03160
+cloud base|03161
+cloud top|03162
+cloud tops|03163
+clouds|03164
+cloudy|03165
+club|03166
+CNS|03167
+coast|03168
+coastal|03169
+Cobar|03170
+cockpit|03171
+code|03172
+Coen|03173
+Coffs|03174
+Coffs Harbour|03175
+cold|03176
+collapse|03177
+collapsed|03178
+collapsing|03179
+Collinsville|03180
+collision|03181
+collision avoidance|03182
+collision avoidance system|03183
+Colo|03184
+colocated|03185
+colour|03186
+coloured|03187
+combined|03188
+comm|03189
+commander|03190
+commence|03191
+commenced|03192
+commencing|03193
+commissioned|03194
+common|03195
+comms|03196
+comms problems|03197
+communication|03198
+communications|03199
+compacted|03362
+compass|03200
+complete|03201
+completed|03202
+completing|03203
+completion|03204
+comply|03205
+component|03206
+concrete|03207
+condition|03208
+conditional|03209
+conditions|03210
+Condobolin|03211
+conduct|03212
+conducted|03213
+conducting|03214
+cone|03215
+cones|03216
+confined|03217
+confirm|03218
+congestion|03219
+conical|03220
+consecutive|03221
+consist|03222
+consist of|03223
+consistent|03224
+consisting|03225
+consisting of|03226
+consists|03227
+consists of|03228
+constant|03229
+construct|03230
+constructed|03231
+constructing|03232
+construction|03233
+contact|03234
+contact apron|03235
+contact apron on|03236
+contact clearance delivery|03237
+contact flight watch|03238
+contact terminal|03239
+contact terminal on|03240
+contact tower|03241
+contacted|03242
+contacting|03243
+contain|03244
+containing|03245
+contains|03246
+contaminated|03247
+contamination|03248
+contingency|03249
+contingency procedures apply|03250
+continue|03251
+continued|03252
+continues|03253
+continuing|03254
+continuous|03255
+continuously|03256
+contract|03257
+contracted|03258
+contracting|03259
+contracts|03260
+control|03261
+control area|03262
+control system|03263
+control zone|03264
+Control zone and restricted areas deactivated|03265
+control zone surface|03266
+controlled|03267
+controller|03268
+controllers|03269
+controlling|03270
+controls|03271
+converging|03272
+converging runway operations|03273
+Coogee|03274
+Coogee Bay|03275
+Cook|03276
+Cooktown|03277
+Coolangatta|03278
+Cooma|03279
+Coonabarabran|03280
+coord|03281
+coordinate|03282
+coordinated|03283
+coordinates|03284
+coordination|03285
+coordinator|03286
+Cootamundra|03287
+copied|03288
+copy|03289
+copying|03290
+CORDO|03291
+corellas|03292
+Corowa|03293
+correct|03294
+corrected|03295
+correction|03296
+counter|03297
+course|03298
+cover|03299
+coverage|03361
+covered|03300
+covered by|03301
+covering|03302
+CPDLC|03303
+Craigieburn|03304
+Craigieburn Overpass|03305
+Cranbourne|03306
+crane|03307
+cranes|03308
+Craven|03309
+crew|03310
+critical|03311
+critical area|03312
+critical areas|03313
+critical location|03314
+critical locations|03315
+Cronulla|03316
+cross|03317
+cross wind|03318
+cross wind maximum|03319
+cross wind mean|03320
+cross winds|03321
+crossbar|03322
+crosses|03323
+crossing|03324
+crows|03325
+cruise|03326
+cruising|03327
+crystal|03328
+CT4|03329
+CTA|03330
+CTAF|03331
+CTAF procedures|03332
+CTAF procedures apply|03333
+CTAF radio procedures apply|03334
+CTR|03335
+Cudal|03336
+Culin|03337
+cumiliform|03338
+cumuliform|03339
+cumulo|03340
+cumulonimbus|03341
+cumulonimbus in area|03342
+cumulus|03343
+Cungelella|03344
+Cunnamulla|03345
+curfew|03346
+curfew in operation until|03347
+curfew in operation until time|03348
+curfew restrictions apply|03349
+current|03350
+currently|03351
+currently no delay|03352
+currently not available|03353
+Curtin|03354
+Customs|03355
+cutter|03356
+cutting|03357
+cyclone|03358
+cyclonic|03359
+D|04000
+D-ATIS|04001
+D-VOLMET|04002
+daily|04003
+Dajarra|04004
+damage|04005
+damaged|04006
+damaging|04007
+damp|04008
+danger|04009
+danger area|04010
+danger areas|04011
+dangerous|04012
+Darwin|04013
+Dash|04014
+Dash 8|04015
+data|04016
+data interchange|04017
+data link|04018
+database|04019
+date|04020
+Davenport|04021
+day|04022
+day and night|04023
+dayglo|04024
+daylight|04025
+daylight saving|04026
+days|04027
+DC10|04028
+DC9|04029
+DCPC|04030
+deactivated|04031
+deactive|04032
+dead|04033
+dead reckoning|04034
+debris|04035
+December|04036
+deception|04037
+decimal|04038
+decision|04039
+decision altitude|04040
+decision height|04041
+declare|04042
+declared|04043
+decommissioned|04044
+decrease|04045
+decreased|04046
+decreased to|04047
+decreasing|04048
+deep|04049
+degradation|04050
+degree|04051
+degrees|04052
+degrees Celsius|04053
+Delamere|04054
+delay|04055
+delay indefinite|04056
+delayed|04057
+delaying|04058
+delays|04059
+delays may occur|04060
+delete|04061
+deleted|04062
+delineated|04063
+delivery|04064
+Delta|04065
+demolition|04066
+dense|04067
+dense upper cloud|04068
+density|04069
+density altitude|04070
+depart|04071
+departed|04072
+departing|04073
+departs|04074
+departure|04075
+departure and approach procedures|04076
+departure end cable|04077
+departure frequency|04078
+departure information|04079
+departure procedure|04080
+departure procedure 1 in use|04081
+departure procedure 2 in use|04082
+departure terminal information|04083
+departures|04084
+departures terminal information|04085
+depend|04086
+depend on|04087
+dependent|04088
+depending|04089
+depending on|04090
+depends|04091
+depends on|04092
+depot|04093
+depression|04094
+depressions|04095
+depth|04096
+Derby|04097
+descend|04098
+descend to|04099
+descend to and maintain|04100
+descending|04101
+descending to|04102
+descent|04103
+designator|04104
+destination|04105
+destinations|04106
+destined|04107
+detail|04108
+detailed|04109
+detailed in|04110
+detailed in AIP sup|04111
+detailed in AIP supplement|04112
+detailing|04113
+details|04114
+deteriorate|04115
+deteriorating|04116
+deterioration|04117
+deviating|04118
+deviation|04119
+device|04120
+devices|04121
+devil|04122
+devils|04123
+Devonport|04124
+dew point|04125
+dew point temperature|04126
+DF|04127
+diagram|04128
+diagrams|04129
+diamond|04130
+diamond dust|04131
+diffuse|04132
+diffused|04133
+digging|04134
+digital|04135
+DIPSO|04136
+direct|04137
+direct to|04138
+directed|04139
+direction|04140
+direction finder|04141
+direction finding station|04142
+direction finding stations|04143
+directional|04144
+disabled|04145
+disaster|04146
+dispersal|04147
+displace|04148
+displaced|04149
+displaced runway threshold|04150
+displaced threshold|04151
+display|04152
+display in progress|04153
+displayed|04154
+displays|04155
+disrupt|04156
+disrupted|04157
+disrupting|04158
+disruption|04159
+distance|04160
+distance to run|04161
+distance to run marker boards|04162
+distant|04163
+distress|04164
+distress phase|04165
+diversion|04166
+diversions|04167
+diversions will be available|04168
+divert|04169
+diverted|04170
+diverting|04171
+DME|04172
+do|04173
+do not|04174
+Do not use|04175
+dock|04176
+docked|04177
+docking|04178
+document|04179
+documents|04180
+does|04181
+domestic|04182
+Doncaster|04183
+Doncaster Shoppingtown|04184
+Doomadgee|04185
+doppler|04186
+doppler VOR|04187
+DOSEL|04188
+double|04189
+doubled|04190
+down|04191
+down draft|04192
+down wind|04193
+down wind maximum|04194
+downgrade|04195
+downgraded|04196
+downgraded to|04197
+downgraded to category 1|04198
+downgraded to category 2|04199
+downgraded to category 3|04200
+DR|04201
+draft|04202
+drafts|04203
+drag|04204
+drifting|04205
+drizzle|04206
+drizzle in area|04207
+droguechutes|04208
+drop|04209
+dry|04210
+dual|04211
+Dubbo|04212
+due|04213
+due aircraft|04214
+due curfew requirements|04215
+due emergency|04216
+due emergency conditions|04217
+due flight test|04218
+due flight testing|04219
+due lighting failure|04220
+due maintenance|04221
+due parked aircraft|04222
+due possible evacuation|04223
+due power failure|04224
+due reciprocal runway operations|04225
+due soft wet surface|04226
+due staff shortage|04227
+due technical problem|04228
+due technical problems|04229
+due technical reason|04230
+due technical reasons|04231
+due to an emergency|04232
+due to cyclone activity|04233
+due to emergency|04234
+due tower evacuation|04235
+due tower facility failure|04236
+due work in progress|04237
+due works|04238
+dull|04239
+Dunbar|04240
+duration|04241
+Durham|04242
+during|04243
+Durrie|04244
+dust|04245
+dust devil|04246
+dust devils|04247
+dust devils in area|04248
+dust haze|04249
+dust storm|04250
+Dutson|04251
+duty|04252
+Dysart|04253
+DZ|04254
+E|05000
+E-Jet|05001
+E-Jet 170|05002
+E-Jet 190|05003
+EA6B|05004
+each|05005
+earlier|05006
+earliest|05007
+early|05008
+earth|05009
+earthquake|05010
+earthquakes|05011
+east|05012
+east and north|05013
+east and north east|05014
+east and south|05015
+east and south east|05016
+East Lakes|05017
+east north east|05018
+East Sale|05019
+east south east|05020
+eastbound|05021
+easter|05022
+easterly|05023
+eastern|05024
+Echo|05025
+edge|05026
+edge lighting|05027
+edge lights|05028
+edges|05029
+Edinburgh|05030
+EET|05031
+effect|05032
+effective|05033
+effective from|05034
+effective immediately|05035
+Eglin|05036
+egress|05037
+either|05038
+elaborative|05039
+elapsed|05040
+electrical|05041
+electronic|05042
+elevation|05043
+ELL|05044
+Elliot|05045
+elsewhere|05046
+ELT|05047
+embedded|05048
+Embrayer|05049
+Embrayer 170|05050
+Embrayer 190|05051
+Emerald|05052
+emergency|05053
+emission|05054
+emu|05055
+emus|05056
+encounter|05057
+encountered|05058
+encountering|05059
+end|05060
+end of runway|05061
+end point|05062
+ends|05063
+endurance|05064
+engine|05065
+engined|05066
+engines|05067
+enroute|05068
+enroute chart|05069
+enroute surveillance radar|05070
+ensure|05071
+enter|05072
+entering|05073
+ENTRA|05074
+entrance|05075
+entry|05076
+EPIRB|05077
+Epping|05078
+Epping Township|05079
+equal|05080
+equals|05081
+equipment|05082
+equipped|05083
+ERC|05084
+erected|05085
+Ernabella|05086
+Eromanga|05087
+error|05088
+errors|05089
+ERSA|05090
+eruption|05091
+eruptions|05092
+escarpment|05093
+escort|05094
+Esperance|05095
+ESS|05096
+Essendon|05097
+estimate|05098
+estimated|05099
+estimated arrival time|05100
+estimated departure time|05101
+estimated elapsed time|05102
+estimated landing time|05103
+estimated off blocks time|05104
+estimated time of arrival|05105
+estimated time of departure|05106
+estimated time over|05107
+estimating|05108
+ETA|05109
+ETD|05110
+ETO|05111
+evacuated|05112
+evacuation|05113
+Evans|05114
+evening|05115
+event|05116
+events|05117
+every|05118
+EVONN|05119
+except|05120
+except Air Shows Down Under approved operations|05121
+except as per NOTAM|05122
+except ASDU approved operations|05123
+except for|05124
+except for approved operations|05125
+except for approved operators|05126
+except on|05127
+except public holidays|05128
+except to|05129
+excess|05130
+exclusive|05131
+exercise|05132
+exercises|05133
+exercising|05134
+exist|05135
+existing|05136
+exists|05137
+exit|05138
+exit taxiway|05139
+exits|05140
+expand|05141
+expanded|05142
+expanding|05143
+expands|05144
+expect|05145
+expect delay|05146
+expect delays|05147
+expect departure from holding point|05148
+expect DME arrival|05149
+expect ILS approach|05150
+expect ILS PRM approach|05151
+expect independent visual approach|05152
+expect instrument approach|05153
+expect localiser approach|05154
+expect moderate turbulence|05155
+expect NDB approach|05156
+expect possible delay|05157
+expect possible delays|05158
+expect PRM approach|05159
+expect RNAV approach|05160
+expect runway|05161
+expect traffic|05162
+expect turbulence|05163
+expect turbulence in circuit area|05164
+expect turbulence on final|05165
+expect turbulence over runway|05166
+expect vehicular traffic|05167
+expect visual approach|05168
+expect VOR approach|05169
+expect VSA approach|05170
+expected|05171
+expected approach time|05172
+expecting|05173
+experience|05174
+experienced|05175
+experiencing|05176
+expire|05177
+expired|05178
+expiring|05179
+expiry|05180
+expiry time|05181
+explosive|05182
+explosives|05183
+express|05184
+extend|05185
+extended|05186
+extended range|05187
+extended range operations|05188
+extending|05189
+extension|05190
+extensive|05191
+extensive holding|05192
+external|05193
+extra|05194
+extreme|05195
+extremely|05196
+eye|05197
+F|06000
+F111|06001
+F15|06002
+F16|06003
+F18|06004
+F35|06005
+F5|06006
+FA18|06007
+facilities|06008
+facility|06009
+fahrenheit|06010
+fail|06011
+failed|06012
+failing|06013
+fails|06014
+failure|06015
+failures|06016
+falcon|06017
+fall|06018
+falls|06019
+false|06020
+False indications possible|06021
+fast|06022
+fax|06023
+feature|06024
+February|06025
+feet|06026
+feet per minute|06027
+festival|06028
+few|06029
+fewer|06030
+FIA|06031
+FIC|06032
+field|06033
+fighter|06034
+fighters|06035
+fighting|06036
+final|06037
+final approach|06038
+final approach and take off area|06039
+final approach fix|06040
+final approach point|06041
+find|06042
+finder|06043
+finding|06044
+fine|06045
+finish|06046
+finished|06047
+finishing|06048
+FIO|06049
+FIR|06050
+fire|06051
+fire brigade|06052
+fire fighting|06053
+fire relief|06054
+firearms|06055
+fired|06056
+fires|06057
+fireworks|06058
+firing|06059
+first|06060
+first available|06061
+first light|06062
+FIS|06063
+fish|06064
+fish spotting|06065
+fishing zone|06066
+fishing zones|06067
+fix|06068
+fixed|06069
+fixing|06070
+flack|06071
+flare|06072
+flares|06073
+flash|06074
+flashes|06075
+flashing|06076
+flashing light|06077
+flashing lights|06078
+flat|06079
+Flemington|06080
+Flemington Racecourse|06081
+flexible|06082
+flight|06083
+flight check|06084
+flight data processing|06085
+flight data processing system|06086
+flight forecast|06087
+flight information area|06088
+flight information centre|06089
+flight information office|06090
+flight information region|06091
+flight information service|06092
+flight level|06093
+flight management system|06094
+flight notification|06095
+flight plan|06096
+flight plan designator|06097
+flight plan route|06098
+flight service|06099
+flight strip|06100
+flight test|06101
+flight testing|06102
+flight tests|06103
+flight watch|06104
+flights|06105
+Flinders|06106
+Flinders Island|06107
+flock|06108
+flocks|06109
+flood|06110
+flooded|06111
+flooding|06112
+floods|06113
+flow|06114
+flow management|06115
+flow management unit|06116
+fluctuated|06117
+fluctuating|06118
+fluctuation|06119
+fly|06120
+fly neighbourly|06121
+fly neighbourly area|06122
+flying|06123
+flying fox|06124
+flying foxes|06125
+FM|06126
+FMS|06127
+fod|06128
+fog|06129
+fog bank|06130
+fog banks|06131
+fog patches|06132
+fog patches in area|06133
+Fokker|06134
+Fokker 100|06135
+Fokker 50|06136
+follow|06137
+followed|06138
+following|06139
+follows|06140
+foot|06141
+for|06142
+for aerodrome movement procedures|06143
+for all aircraft|06144
+for all other arrival|06145
+for all other arrivals|06146
+for all other departure|06147
+for all other departures|06148
+for all training aircraft|06149
+for arrival|06150
+for arrival and departure|06151
+for arrivals|06152
+for arrivals and departures|06153
+for circuit aircraft|06154
+for current aerodrome status|06155
+for departure|06156
+for departures|06157
+for detail|06158
+for details|06159
+for further detail|06160
+for further details|06161
+for further information|06162
+for further instructions|06163
+for inbound airways clearance|06164
+for isolated severe turbulence|06165
+for light aircraft|06166
+for non jet departures|06167
+for occasional severe turbulence|06168
+for other arrival|06169
+for other arrivals|06170
+for other departure|06171
+for other departures|06172
+for other operations|06173
+for start and pushback|06174
+for taxiway entry clearance|06175
+for test|06176
+force|06177
+forecast|06178
+forecast wind|06179
+forecasted|06180
+forecasting|06181
+forecasting centre|06182
+forecasts|06183
+formation|06184
+forming|06185
+Forster|06186
+fox|06187
+foxes|06188
+foxmike|06189
+Foxtrot|06190
+fracto|06191
+frangible|06192
+free|06193
+freeway|06194
+Freeway Overpass|06195
+freezing|06196
+freezing drizzle|06197
+freezing fog|06198
+freezing level|06199
+freezing rain|06200
+freight|06201
+frequencies|06202
+frequency|06203
+frequent|06204
+Friday|06205
+from|06206
+from east|06207
+from north|06208
+from north and east|06209
+from north and west|06210
+from south|06211
+from south and east|06212
+from south and west|06213
+from the east|06214
+from the north|06215
+from the north and east|06216
+from the north and west|06217
+from the south|06218
+from the south and east|06219
+from the south and west|06220
+from the threshold|06221
+from the west|06222
+from threshold|06223
+from time|06224
+from west|06225
+front|06226
+frontal|06227
+frost|06228
+fruit|06229
+FS|06230
+FTS|06231
+fuel|06232
+fuel remaining|06233
+full|06234
+full length available|06235
+full stop landing|06236
+fully|06237
+functionality|06238
+funnel|06239
+funnel cloud|06240
+further|06241
+G|07000
+gain|07001
+gained|07002
+gaining|07003
+galahs|07004
+gale|07005
+gales|07006
+gap|07007
+gaps|07008
+gasoline|07009
+gate|07010
+gateway|07011
+Gateway Bridge|07012
+GBAS|07013
+GBAS landing system|07014
+GBAS-2|07015
+GBAS-2 landing system|07016
+GCA|07017
+geese|07018
+general|07019
+general aviation|07020
+general aviation aerodrome|07021
+general aviation aerodrome procedures|07022
+geographic|07023
+Georgetown|07024
+Geraldton|07025
+Giles|07026
+Gingin|07027
+Gladstone|07028
+glare|07029
+Glenfield|07030
+Glengyle|07031
+Glenormiston|07032
+glide|07033
+glide path|07034
+glide path intercept|07035
+glider|07036
+glider flying|07037
+gliders|07038
+gliding|07039
+global|07040
+Global Express|07041
+global navigation satellite system|07042
+global navigation system|07043
+global positioning system|07044
+globe|07045
+Globemaster|07046
+GLONASS|07047
+GLS|07048
+GNS|07049
+GNSS|07050
+go|07051
+go around|07052
+goggle|07053
+goggles|07054
+gold|07055
+Gold Coast|07056
+Golf|07057
+Goochegoochera|07058
+good|07059
+goose|07060
+Goulburn|07061
+Gove|07062
+GPS|07063
+GPS RAIM|07064
+gradient|07065
+gradu|07066
+gradual|07067
+gradually|07068
+Grafton|07069
+grains|07070
+Grande Prix|07071
+granted|07072
+grass|07073
+grass cutter|07074
+grass cutting|07075
+grass fire|07076
+grass landing area|07077
+grass mowing|07078
+grass runway|07079
+grass runways|07080
+grassed|07081
+gravel|07082
+greater|07083
+greater than|07084
+greater than 1 0 kilometres|07085
+green|07086
+grey|07087
+greyhound|07088
+groove|07089
+grooved|07090
+grooves|07091
+gross|07092
+ground|07093
+ground aids|07094
+ground based|07095
+ground based augmentation system|07096
+ground check|07097
+ground control|07098
+ground controlled approach|07099
+ground delay program|07100
+ground earth station|07101
+ground fog|07102
+ground frequency|07103
+ground or approach|07104
+ground or tower|07105
+ground speed|07106
+ground staff|07107
+ground tower or approach|07108
+ground tower or Melbourne approach|07109
+ground tower or Sydney approach|07110
+group|07111
+group flashing|07112
+groups|07113
+groups of|07114
+grove|07115
+guard|07116
+guard lights|07117
+guard points|07118
+guarded|07119
+guarding|07120
+guards|07121
+guidance|07122
+guide|07123
+guided|07124
+guiding|07125
+gunnery|07126
+GURAK|07127
+gust|07128
+gusting|07129
+gusting to|07130
+gusts|07131
+Gympie|07132
+gyrocopter|07133
+gyrocopters|07134
+H|08000
+H24|08001
+hail|08002
+half|08003
+Hamilton|08004
+Hamilton Island|08005
+hand|08006
+handling|08007
+hang|08008
+hang glider|08009
+hang gliders|08010
+hang gliding|08011
+hangar|08012
+hangars|08013
+happy|08014
+Happy new year|08015
+harbour|08016
+hard|08017
+hardstand|08018
+harmony|08019
+has|08020
+has been encountered|08021
+has been reported|08022
+haul|08023
+have|08024
+have been encountered|08025
+have been reported|08026
+hawk|08027
+Hawker|08028
+Hawker de Havilland|08029
+hazard|08030
+hazard alert|08031
+hazard alert current|08032
+hazard beacon|08033
+hazardous|08034
+hazards|08035
+haze|08036
+hazy|08037
+head|08038
+head wind|08039
+heading|08040
+headland|08041
+healthy|08042
+hear|08043
+heard|08044
+hearing|08045
+heavy|08046
+heavy drizzle|08047
+heavy dust storm|08048
+heavy freezing drizzle|08049
+heavy freezing rain|08050
+heavy hail|08051
+heavy rain|08052
+heavy rain and snow|08053
+heavy rain showers|08054
+heavy sand storm|08055
+heavy showers|08056
+heavy showers of rain|08057
+heavy showers of rain and snow|08058
+heavy snow|08059
+heavy snow showers|08060
+heavy thunderstorms|08061
+heavy thunderstorms with hail|08062
+heavy thunderstorms with rain|08063
+hectopascal|08064
+hectopascals|08065
+height|08066
+height above|08067
+height above aerodrome|08068
+height above threshold|08069
+heights|08070
+held|08071
+helicopter|08072
+helicopter landing site|08073
+helicopter operations|08074
+helicopters|08075
+helipad|08076
+helo|08077
+help|08078
+Herc|08079
+Hercules|08080
+here|08081
+hertz|08082
+Hervey|08083
+Hervey Bay|08084
+HF|08085
+high|08086
+high frequency|08087
+high intensity approach lighting|08088
+high intensity approach lights|08089
+high intensity lighting|08090
+high intensity lighting on|08091
+high intensity obstacle lights|08092
+high intensity runway lighting|08093
+high intensity runway lights|08094
+higher|08095
+hill|08096
+hills|08097
+HJ|08098
+HLA|08099
+HN|08100
+ho|08101
+ho ho ho|08102
+Hobart|08103
+hold|08104
+hold short|08105
+hold short lighting|08106
+hold short lights|08107
+holding|08108
+holding point|08109
+holding points|08110
+holding position|08111
+holiday|08112
+holidays|08113
+home|08114
+Homebush|08115
+Homebush Bay|08116
+homestead|08117
+hook|08118
+hookcable|08119
+hookwire|08120
+horizontal|08121
+horizontal surface|08122
+hospital|08123
+hospital aircraft|08124
+hot|08125
+Hotel|08126
+hotspot|08127
+hour|08128
+hours|08129
+hours of daylight saving|08130
+hover|08131
+hovering|08132
+HS748|08133
+Hughenden|08134
+humidity|08135
+hundred|08136
+Hungerford|08137
+hurricane|08138
+I|09000
+IAL|09001
+IAS|09002
+IBA|09003
+ibis|09004
+IBS|09005
+ICAO|09006
+ice|09007
+ice crystals|09008
+ice pellets|09009
+icing|09010
+ICN|09011
+ident|09012
+identification|09013
+identification beacon|09014
+identification zone|09015
+identified|09016
+identifier|09017
+identify|09018
+if|09019
+if no contact|09020
+if operational requirement|09021
+if operationally required|09022
+if required|09023
+IFF|09024
+Iffley|09025
+IFR|09026
+IFR aircraft|09027
+IFR aircraft must notify IFR|09028
+IFR arrivals|09029
+IFR departures|09030
+ignore|09031
+illuminated|09032
+illuminated wind indicator|09033
+illumination|09034
+Illyushin|09035
+ILS|09036
+ILS and localiser|09037
+ILS approach|09038
+ILS PRM|09039
+IMC|09040
+immediate|09041
+immediately|09042
+immigration|09043
+implemented|09044
+important|09045
+improve|09046
+improved|09047
+improvement|09048
+improving|09049
+in|09050
+in and out of cloud|09051
+in and out of clouds|09052
+in area|09053
+in circuit area|09054
+in cloud|09055
+in flight|09056
+in fog|09057
+in force|09058
+in haze|09059
+in operation|09060
+in passing showers|09061
+in progress|09062
+in rain|09063
+in service|09064
+in showers|09065
+in smoke haze|09066
+in terminal area|09067
+in the circuit area|09068
+in the terminal area|09069
+in the vicinity|09070
+in turbulence|09071
+in use|09072
+in valleys|09073
+in vicinity|09074
+inboard|09075
+inbound|09076
+INC|09077
+INCERFA|09078
+inch|09079
+inches|09080
+incident|09081
+incidents|09082
+include|09083
+included|09084
+including|09085
+increase|09086
+increased|09087
+increased to|09088
+increasing|09089
+increasing to|09090
+indefinite|09091
+indefinite ceiling|09092
+indefinitely|09093
+independent|09094
+independent departures in progress|09095
+independent parallel approaches in progress|09096
+independent parallel operations in progress|09097
+independent sideband|09098
+India|09099
+indicate|09100
+indicated|09101
+indicated air speed|09102
+indicates|09103
+indicating|09104
+indication|09105
+indications|09106
+indicator|09107
+indicators|09108
+Indonesia|09109
+industrial|09110
+Indy|09111
+inertial|09112
+inertial navigation system|09113
+inflow|09114
+info|09115
+inform|09116
+information|09117
+information service|09118
+infringe|09119
+infringed|09120
+infringement|09121
+infringes|09122
+infringing|09123
+Ingham|09124
+ingress|09125
+initial|09126
+initial approach fix|09127
+initiation|09128
+Injune|09129
+inland|09130
+inlet|09131
+inner|09132
+inner locator|09133
+inner marker|09134
+Innes|09135
+Innisfail|09136
+inoperative|09137
+INS|09138
+insect|09139
+insects|09140
+inside|09141
+inside runway strip|09142
+inside the runway strip|09143
+inspection|09144
+install|09145
+installation|09146
+installed|09147
+Instantaneous cloud height|09148
+Instantaneous cloud heights|09149
+instruction|09150
+instructions|09151
+instrument|09152
+instrument approach|09153
+instrument approach and landing|09154
+instrument approach chart|09155
+instruments|09156
+integrity|09157
+intense|09158
+intensify|09159
+intensifying|09160
+intensity|09161
+intensity decreasing|09162
+intensity increasing|09163
+intensity no change|09164
+intention|09165
+intentions|09166
+inter|09167
+intercept|09168
+interchange|09169
+interference|09170
+interior|09171
+interleaved|09172
+intermediate|09173
+intermediate approach fix|09174
+intermediate fix|09175
+intermittent|09176
+intermittently|09177
+internal|09178
+international|09179
+internet|09180
+interrogator|09181
+interrupt|09182
+interrupted|09183
+interruption|09184
+intersect|09185
+intersecting|09186
+intersection|09187
+intersections|09188
+interval|09189
+into|09190
+Inverell|09191
+inversion|09192
+invert|09193
+inverted|09194
+Iroquois|09195
+is|09196
+is being jammed|09197
+is covered by|09198
+is non controlled|09199
+is not available|09200
+is off|09201
+is on|09202
+is partially covered by|09203
+ISA|09204
+Isisford|09205
+island|09206
+islands|09207
+isolated|09208
+isolated light showers|09209
+isolated light showers in area|09210
+isolated showers|09211
+isolated showers in area|09212
+isolated thunderstorms|09213
+isolated thunderstorms in area|09214
+issue|09215
+issued|09216
+issued by|09217
+issues|09218
+issuing|09219
+it|09220
+Ivanhoe|09221
+J|10000
+J-Bar|10001
+Jacobs|10002
+Jacobs Well|10003
+jammed|10004
+Jandakot|10005
+January|10006
+jet|10007
+jet aircraft|10008
+jet aircraft expect runway|10009
+jet arrivals expect runway|10010
+jet barrier|10011
+jet stream|10012
+jets|10013
+jets and all aircraft|10014
+Jetstar|10015
+Juliett|10016
+July|10017
+jump|10018
+jumping|10019
+June|10020
+K|11000
+Kalgoorlie|11001
+Kalgoorlie-Boulder|11002
+Kalkallo|11003
+KAMBA|11004
+Kamilaroi|11005
+kangaroo|11006
+Kangaroo Island|11007
+kangaroos|11008
+Karratha|11009
+Katoomba|11010
+KEELS|11011
+keep|11012
+keeping|11013
+kelvin|11014
+Kilmore|11015
+Kilo|11016
+kilogram|11017
+kilograms|11018
+kilohertz|11019
+kilometre|11020
+kilometres|11021
+kilometres per hour|11022
+kilopascal|11023
+kilopascals|11024
+kilowatt|11025
+kilowatts|11026
+King|11027
+King Island|11028
+Kingair|11029
+Kingaroy|11030
+Kingscote|11031
+Kintore|11032
+Kiowa|11033
+knot|11034
+knots|11035
+known|11036
+Kununarra|11037
+L|12000
+LAHSO|12001
+lake|12002
+Lake George|12003
+land|12004
+land and hold short operations|12005
+landed|12006
+landing|12007
+landing aircraft|12008
+landing direction indicator|12009
+landing distance available|12010
+landing lights|12011
+landing system|12012
+landing weight|12013
+landings|12014
+lands|12015
+lane|12016
+lane of entry|12017
+Laravale|12018
+large|12019
+larger|12020
+largest|12021
+laser|12022
+lasers|12023
+last|12024
+last 10 minutes|12025
+last available|12026
+last available exit|12027
+last hour|12028
+last light|12029
+late|12030
+later|12031
+lateral|12032
+latest|12033
+latitude|12034
+Latrobe|12035
+Launceston|12036
+Laverton|12037
+Lawn|12038
+layer|12039
+layered|12040
+lead|12041
+lead in|12042
+leading|12043
+Learmonth|12044
+leave|12045
+leaving|12046
+lee|12047
+left|12048
+left and centre|12049
+left and right|12050
+left base|12051
+left centre and right|12052
+left hand|12053
+left hand circuit|12054
+left hand side|12055
+left right and centre|12056
+left side|12057
+left side of runway|12058
+Leigh|12059
+Leigh Creek|12060
+length|12061
+length reduced|12062
+lengths|12063
+less|12064
+less than|12065
+level|12066
+levels|12067
+licensed|12068
+lieu|12069
+light|12070
+light aircraft|12071
+light and variable|12072
+light intensity|12073
+light intensity high|12074
+light intensity low|12075
+light intensity medium|12076
+light rain|12077
+light rain showers|12078
+light showers|12079
+light showers in vicinity|12080
+light showers of rain|12081
+light snow|12082
+lighted|12083
+lighting|12084
+lighting system|12085
+lightning|12086
+lightning last hour|12087
+lights|12088
+Lima|12089
+limit|12090
+limitation|12091
+limited|12092
+limiting|12093
+limits|12094
+line|12095
+line along coast|12096
+line squall|12097
+lines|12098
+lineup|12099
+link|12100
+listen|12101
+Listen here|12102
+Listen here for further instructions|12103
+listening|12104
+lit|12105
+little|12106
+Little River Mouth|12107
+live|12108
+loading|12109
+local|12110
+local mean time|12111
+local time|12112
+localiser|12113
+locally|12114
+locate|12115
+located|12116
+location|12117
+locations|12118
+locator|12119
+Lockhart|12120
+Lockhart River|12121
+Lockheed|12122
+Londonderry|12123
+long|12124
+long haul|12125
+long range|12126
+longer|12127
+longest|12128
+longitude|12129
+Longreach|12130
+look|12131
+Look for a green light|12132
+loop|12133
+loose|12134
+loose stones|12135
+lose|12136
+lost|12137
+lots|12138
+low|12139
+low drifting|12140
+low drifting dust|12141
+low drifting sand|12142
+low drifting snow|12143
+low frequency|12144
+low intensity obstacle lights|12145
+low intensity runway lights|12146
+low jet route|12147
+low level helicopter operations|12148
+low level navigation|12149
+low level operations|12150
+low visibility operations|12151
+low visibility procedures|12152
+low visibility procedures in force|12153
+lower|12154
+lower limits|12155
+lower patches|12156
+lowered|12157
+lowest|12158
+lowest safe altitude|12159
+lowest usable level|12160
+lying|12161
+M|13000
+Macchi|13001
+mach|13002
+mach number|13003
+machinery|13004
+Mackay|13005
+Macquarie|13006
+made|13007
+magnetic|13008
+magnetic variation|13009
+main|13010
+mainly|13011
+maintain|13012
+maintain altitude|13013
+maintained|13014
+maintaining|13015
+maintenance|13016
+major|13017
+Majura|13018
+make|13019
+malfunction|13020
+manage|13021
+managed|13022
+management|13023
+manager|13024
+managing|13025
+mandatory|13026
+mandatory broadcast procedures|13027
+MANDU|13028
+Mangalore|13029
+manned|13030
+manoeuvre|13031
+manoeuvres|13032
+manual|13033
+many|13034
+many birds|13035
+many birds in area|13036
+March|13037
+Marchetti|13038
+marching|13039
+Mareeba|13040
+marginal|13041
+marine|13042
+marines|13043
+maritime|13044
+marked|13045
+marker|13046
+marker board|13047
+marker boards|13048
+marker radio beacon|13049
+markers|13050
+marking|13051
+markings|13052
+Maroochydore|13053
+marshall|13054
+marshaller|13055
+marshalling|13056
+marshalls|13057
+mast|13058
+max|13059
+maxima|13060
+maximum|13061
+maximum cross wind|13062
+maximum down wind|13063
+maximum landing weight|13064
+maximum take off weight|13065
+maximum tyre pressure|13066
+maximum wind gust|13067
+May|13068
+may be|13069
+MBZ|13070
+MBZ procedures|13071
+MBZ procedures apply on|13072
+MBZ procedures required|13073
+McArthur|13074
+McArthur River|13075
+McDonnell|13076
+McDonnell Douglas|13077
+MCG|13078
+MD|13079
+MD11|13080
+MD80|13081
+MD90|13082
+MEA|13083
+Meadow|13084
+mean|13085
+mean sea level|13086
+measure|13087
+measured|13088
+measures|13089
+measuring|13090
+mechanical|13091
+medical|13092
+medium|13093
+medium frequency|13094
+medium intensity approach lighting|13095
+medium intensity obstacle lights|13096
+medium intensity runway lighting|13097
+medium intensity runway lights|13098
+medium range|13099
+Meekatharra|13100
+megahertz|13101
+Melbourne|13102
+Melbourne FIR|13103
+Melton|13104
+men|13105
+men and equipment|13106
+men and hand tools|13107
+men with hand tools|13108
+Mendooran|13109
+mercy|13110
+Merimbula|13111
+merry|13112
+Merry Christmas|13113
+message|13114
+messages|13115
+MET|13116
+MET office|13117
+MET radar|13118
+MET report|13119
+MET watch office|13120
+METAR|13121
+METAR for|13122
+meteorological|13123
+meteorological office|13124
+meteorological watch office|13125
+meteorology|13126
+metering|13127
+method|13128
+metre|13129
+metres|13130
+metres per second|13131
+metric|13132
+metro|13133
+Metroliner|13134
+mic|13135
+microburst|13136
+microbursts|13137
+microlight|13138
+microlights|13139
+microphone|13140
+microwave|13141
+microwave landing system|13142
+mid|13143
+mid field|13144
+mid point|13145
+middle|13146
+middle locator|13147
+middle marker|13148
+Middlemount|13149
+Middleton|13150
+might|13151
+migrating|13152
+Mike|13153
+Mildura|13154
+mile|13155
+miles|13156
+miles per hour|13157
+miles per second|13158
+military|13159
+military CTAF|13160
+military low jet|13161
+military low jet route|13162
+military operating area|13163
+military operating areas|13164
+millibar|13165
+millibars|13166
+millimetres|13167
+min|13168
+mine|13169
+minima|13170
+minimal|13171
+minimum|13172
+minimum descent altitude|13173
+minimum enroute altitude|13174
+minimum eye height|13175
+minimum obstacle clearance|13176
+minimum required|13177
+minimum required climb gradient|13178
+minimum sector altitude|13179
+minimum vector altitude|13180
+Minlaton|13181
+minor|13182
+minus|13183
+minute|13184
+minutes|13185
+miscellaneous|13186
+miss|13187
+missed|13188
+missed approach|13189
+missed approach holding fix|13190
+missed approach point|13191
+missed approach procedure|13192
+missed approach turning fix|13193
+missile|13194
+missiles|13195
+missing|13196
+mist|13197
+mixed|13198
+MLS|13199
+Mobil|13200
+mockup|13201
+Modbury|13202
+mode|13203
+model|13204
+models|13205
+moderate|13206
+moderate overshoot|13207
+moderate to severe|13208
+moderate to severe turbulence|13209
+moderate turbulence|13210
+moderate undershoot|13211
+moderate wind shear|13212
+moderately|13213
+modes|13214
+modified|13215
+modus|13216
+Monday|13217
+Monday to Friday|13218
+monitor|13219
+monitored|13220
+monitoring|13221
+Monkira|13222
+monopulse|13223
+monsoon|13224
+month|13225
+Monty|13226
+Moomba|13227
+moon|13228
+Moonee|13229
+Moonee Valley Racecourse|13230
+moonlight|13231
+Moorabbin|13232
+MOPS|13233
+Moranbah|13234
+more|13235
+more than|13236
+Moree|13237
+Moreton|13238
+Moreton Bay|13239
+Moreton Island|13240
+morning|13241
+Mornington|13242
+Moruya|13243
+most|13244
+mostly|13245
+moths|13246
+motor|13247
+motors|13248
+mount|13249
+Mount Blackwood|13250
+Mount Canobolis|13251
+Mount Gambier|13252
+Mount Ginini|13253
+Mount Hotham|13254
+Mount Isa|13255
+Mount Lofty|13256
+Mount Majura|13257
+Mount Moubullan|13258
+Mount William|13259
+mountain|13260
+mountain waves|13261
+mountains|13262
+mouth|13263
+move|13264
+moved|13265
+movement|13266
+movements|13267
+moves|13268
+moving|13269
+mower|13270
+mowers|13271
+mowing|13272
+MSA|13273
+MSSR|13274
+MTAF|13275
+multi|13276
+multiple|13277
+Mungindi|13278
+must|13279
+must be obtained|13280
+must broadcast intentions on|13281
+must contact|13282
+must notify|13283
+must notify IFR|13284
+must notify VFR|13285
+must use|13286
+Muttaburra|13287
+N|14000
+NAIPS|14001
+Naracoorte|14002
+Narrabri|14003
+Narrandera|14004
+Narromine|14005
+national|14006
+national aeronautical information|14007
+nautical|14008
+nautical mile|14009
+nautical miles|14010
+nav|14011
+navaid|14012
+navaid training|14013
+navaids|14014
+navigation|14015
+navigation aid|14016
+Navy|14017
+NDB|14018
+near|14019
+nearby|14020
+negative|14021
+neighbour|14022
+neighbourly|14023
+net|14024
+network|14025
+new|14026
+New South Wales|14027
+New Zealand|14028
+Newman|14029
+Newport|14030
+next|14031
+Nhill|14032
+night|14033
+night VFR|14034
+night vision goggles|14035
+nil|14036
+Nil cloud detected|14037
+Nil current|14038
+nil ident|14039
+Nil sig cloud|14040
+Nil sig weather|14041
+Nil significant cloud|14042
+Nil significant weather|14043
+nimbo|14044
+nimbostratus|14045
+nimbus|14046
+no|14047
+No change|14048
+No cloud detected|14049
+No directional information available|14050
+No directional variation|14051
+No side wind|14052
+No significant|14053
+no significant change|14054
+No significant cloud|14055
+No significant weather|14056
+No TAF amendment|14057
+no transgression zone|14058
+NOBAR|14059
+node|14060
+noise|14061
+noise abatement|14062
+noise abatement procedures|14063
+nominate|14064
+nominated|14065
+nominating|14066
+nomination|14067
+non|14068
+non controlled|14069
+non directional|14070
+non jet aircraft|14071
+non precision approach|14072
+none|14073
+normal|14074
+normal operating zone|14075
+normally|14076
+Normanton|14077
+north|14078
+north and east|14079
+north and north east|14080
+north and north west|14081
+north and west|14082
+north east|14083
+north easterly|14084
+north north east|14085
+north north west|14086
+north west|14087
+north westerly|14088
+northbound|14089
+northerly|14090
+northern|14091
+Northern Territory|14092
+nosig|14093
+not|14094
+not allowed|14095
+not available|14096
+not before|14097
+not known|14098
+not operating|14099
+not permitted|14100
+not protected|14101
+not reported|14102
+not to be used|14103
+not to use|14104
+not visible|14105
+NOTAM|14106
+NOTAM office|14107
+NOTAMs|14108
+notice|14109
+notification|14110
+notifies|14111
+notify|14112
+notify receipt of|14113
+notify receipt of information|14114
+November|14115
+now|14116
+Nowra|14117
+NOZ|14118
+NSW|14119
+NTZ|14120
+number|14121
+numbers|14122
+numerous|14123
+O|15000
+Oakey|15001
+oblique|15002
+obscure|15003
+obscured|15004
+obscuring|15005
+observation|15006
+observe|15007
+observed|15008
+observer|15009
+observers|15010
+observing|15011
+obstacle|15012
+obstacle clearance altitude|15013
+obstacle clearance height|15014
+obstacle free zone|15015
+obstacles|15016
+obstruct|15017
+obstructed|15018
+obstructing|15019
+obstruction|15020
+obtain|15021
+obtained|15022
+obtaining|15023
+OCA|15024
+occasion|15025
+occasional|15026
+occasional rain showers|15027
+occasional showers of rain|15028
+occasionally|15029
+occasions|15030
+occulting|15031
+occur|15032
+occurrence|15033
+occurring|15034
+ocean|15035
+oceanic|15036
+oceanic control area|15037
+OCTA|15038
+OCTAs|15039
+October|15040
+OCTR|15041
+of|15042
+of aerodrome|15043
+of airport|15044
+of apron|15045
+of Barwon West|15046
+of hail|15047
+of ice|15048
+of runway|15049
+of runway intersection|15050
+of runway strip|15051
+of sand|15052
+of snow|15053
+of Sydney tower|15054
+of taxiway|15055
+of the aerodrome|15056
+of the airport|15057
+of the apron|15058
+of the parallel runway|15059
+of the runway|15060
+of the runway intersection|15061
+of the runway strip|15062
+of the taxiway|15063
+of the tower|15064
+of this instruction|15065
+of this message|15066
+of tower|15067
+of water|15068
+off|15069
+off for maintenance|15070
+office|15071
+officer|15072
+offline|15073
+offset|15074
+oil|15075
+oil spill|15076
+OK|15077
+okta|15078
+oktas|15079
+OLA|15080
+OLAs|15081
+old|15082
+OLDI|15083
+omni|15084
+on|15085
+on aerodrome|15086
+on airport|15087
+on apron|15088
+on aprons|15089
+on board|15090
+on combined ACD and SMC frequencies|15091
+on crossing runways|15092
+on final|15093
+on final and opposite base|15094
+On first contact with|15095
+on receipt of ATIS|15096
+on request|15097
+on runway|15098
+on runways|15099
+on tarmac|15100
+on taxiway|15101
+on taxiways|15102
+on test|15103
+on the aerodrome|15104
+on top|15105
+on trial|15106
+once|15107
+online|15108
+only|15109
+only available|15110
+onset|15111
+onwards|15112
+Oodnadatta|15113
+opaque|15114
+open|15115
+opened|15116
+opening|15117
+opens|15118
+operate|15119
+operated|15120
+operates|15121
+operating|15122
+operating on reduced power|15123
+operating on the aerodrome|15124
+operating with a flight number|15125
+operating with reduced power|15126
+operating within runway strip|15127
+operation|15128
+operational|15129
+operational meteorological|15130
+operationally|15131
+operationally required|15132
+operations|15133
+operative|15134
+operator|15135
+operators|15136
+OPMET|15137
+opposite|15138
+OPR|15139
+ops|15140
+OPTIC|15141
+or|15142
+or vacating a runway|15143
+Orange|15144
+Orbost|15145
+order|15146
+orders|15147
+ordnance|15148
+organisation|15149
+organised|15150
+orientation|15151
+Orientos|15152
+origin|15153
+originated|15154
+originating|15155
+ORP|15156
+Osborne|15157
+Oscar|15158
+other|15159
+other times|15160
+OTLED|15161
+our|15162
+ours|15163
+out|15164
+out of order|15165
+out of service|15166
+outage|15167
+outages|15168
+outboard|15169
+outbound|15170
+outer|15171
+outer locator|15172
+outer marker|15173
+outflow|15174
+outlook|15175
+outset|15176
+outside|15177
+outside control area|15178
+outside control zone|15179
+outside controlled area|15180
+outside runway side stripe|15181
+outside runway strip|15182
+outside the runway strip|15183
+over|15184
+over aerodrome|15185
+over airport|15186
+over runway|15187
+over the threshold|15188
+over threshold|15189
+over water|15190
+overcast|15191
+overfly|15192
+overflying|15193
+overhead|15194
+overnight|15195
+overpass|15196
+overrun|15197
+overshoot|15198
+overshooting|15199
+P|16000
+P3|16001
+pad|16002
+painted|16003
+painting|16004
+pair|16005
+paired|16006
+PAL|16007
+Papa|16008
+PAPI|16009
+PAPIs|16010
+Papua New Guinea|16011
+para|16012
+Paraburdoo|16013
+parachute|16014
+parachute jumping|16015
+parachute jumping exercise|16016
+parachutes|16017
+parachuting|16018
+parade|16019
+Parafield|16020
+parallel|16021
+Parallel runway operations in progress|16022
+park|16023
+parked|16024
+Parkerville|16025
+Parkes|16026
+parking|16027
+part|16028
+partial|16029
+partially|16030
+partially covered by fog|16031
+participation|16032
+parts|16033
+pass|16034
+passage|16035
+passed|16036
+passenger|16037
+passengers|16038
+passing|16039
+passive|16040
+past|16041
+patches|16042
+patches of hail|16043
+patches of sand|16044
+patches of snow|16045
+patches of water|16046
+path|16047
+Patricia|16048
+pattern|16049
+pavement|16050
+PC|16051
+PC9|16052
+PDC|16053
+peak|16054
+peak gusts|16055
+Pearce|16056
+pelican|16057
+pelicans|16058
+pellets|16059
+penalties|16060
+penalties may apply|16061
+penalty|16062
+peninsula|16063
+per|16064
+percent|16065
+performance|16066
+performance based navigation|16067
+perimeter|16068
+period|16069
+periods|16070
+permanent|16071
+permission|16072
+permit|16073
+permitted|16074
+persist|16075
+person|16076
+personnel|16077
+persons|16078
+Perth|16079
+phase|16080
+phenomena|16081
+phone|16082
+picture|16083
+pier|16084
+pierced|16085
+pierced steel plank|16086
+pilot|16087
+pilot activated lighting|16088
+pilot controlled lighting|16089
+pilot monitored|16090
+pilots|16091
+pink|16092
+Piper|16093
+place|16094
+placed|16095
+plan|16096
+plane|16097
+planes|16098
+planned|16099
+planning|16100
+please|16101
+Plenty|16102
+plus|16103
+PNG|16104
+PNR|16105
+POB|16106
+point|16107
+Point Cook|16108
+Point Lookout|16109
+point of no return|16110
+points|16111
+police|16112
+poor|16113
+Pormpuraaw|16114
+port|16115
+Port Hedland|16116
+Port Moresby|16117
+Port Phillip Bay|16118
+portable|16119
+ports|16120
+position|16121
+position indicating|16122
+position indicator|16123
+positions|16124
+possible|16125
+possible interference|16126
+possibly|16127
+post|16128
+postflight|16129
+power|16130
+powered|16131
+PPI|16132
+practice|16133
+practice ILS|16134
+practising|16135
+pre|16136
+pre departure clearance|16137
+pre departure clearances|16138
+precipitation|16139
+precision|16140
+precision approach radar|16141
+precision runway monitoring|16142
+prefer|16143
+preference|16144
+preferences|16145
+preferred|16146
+preferred route|16147
+preferred runway|16148
+preflight|16149
+preflight information bulletin|16150
+prepare|16151
+prepared|16152
+preparing|16153
+present|16154
+present level|16155
+present position|16156
+President|16157
+pressure|16158
+pressure error correction|16159
+previous|16160
+primarily|16161
+primary|16162
+primary surveillance radar|16163
+Prime Minister|16164
+Prince|16165
+Princess|16166
+prior|16167
+prior notice required|16168
+prior permission required|16169
+prior to|16170
+prior to start|16171
+prior to start up|16172
+prior to taxi|16173
+priority|16174
+prison|16175
+private|16176
+PRM|16177
+prob|16178
+probability|16179
+probable|16180
+probable vertical wind shear|16181
+problem|16182
+problems|16183
+procedural|16184
+procedure|16185
+procedure turn|16186
+procedures|16187
+proceed|16188
+proceeding|16189
+process|16190
+processing|16191
+processing system|16192
+program|16193
+progress|16194
+progressing|16195
+progressive|16196
+progressively|16197
+prohibit|16198
+prohibited|16199
+prohibited area|16200
+prohibited areas|16201
+prop|16202
+propeller|16203
+propellers|16204
+props|16205
+Proserpine|16206
+protected|16207
+provide|16208
+provided|16209
+provided by|16210
+provides|16211
+provisional|16212
+PSR|16213
+public|16214
+public holiday|16215
+public holidays|16216
+publication|16217
+published|16218
+pull|16219
+pulled|16220
+pulling|16221
+Puma|16222
+Purga|16223
+purple|16224
+push|16225
+push back|16226
+pushed|16227
+pushing|16228
+Q|17000
+Qantas|17001
+QFE|17002
+QFF|17003
+QNH|17004
+quadrant|17005
+quantity|17006
+quarter|17007
+quarters|17008
+Quebec|17009
+Queen|17010
+Queenair|17011
+queens|17012
+Queensland|17013
+quickly|17014
+Quilpie|17015
+Quirindi|17016
+R|18000
+RAAF|18001
+race|18002
+racecourse|18003
+races|18004
+racing|18005
+radar|18006
+radar coverage|18007
+radar coverage reduced|18008
+radar position indicator|18009
+radial|18010
+radiating|18011
+radiation|18012
+radio|18013
+radio beacon|18014
+radio procedures|18015
+radio procedures apply|18016
+radio service|18017
+radio telephone|18018
+radios|18019
+radius|18020
+ragged|18021
+RAIM|18022
+rain|18023
+rain and snow|18024
+rain in area|18025
+rain last 10 minutes|18026
+rain last hour|18027
+rain showers|18028
+rain showers in area|18029
+rainfall|18030
+rainfall last 10 minutes|18031
+rainfall last ten minutes|18032
+raise|18033
+raised|18034
+raising|18035
+ramp|18036
+range|18037
+ranged|18038
+ranger|18039
+ranges|18040
+RAPIC|18041
+rapid|18042
+rapid exit|18043
+rapidly|18044
+rate|18045
+rate of climb|18046
+rate of descent|18047
+RCC|18048
+re|18049
+re route|18050
+reach|18051
+reach cruising altitude|18052
+reached|18053
+reaching|18054
+reactivate|18055
+reactivated|18056
+reactivating|18057
+reactivation|18058
+read|18059
+reading|18060
+ready|18061
+realigned|18062
+recall|18063
+receding|18064
+receipt|18065
+receive|18066
+received|18067
+receiver|18068
+receiving|18069
+recent|18070
+recent drizzle|18071
+recent freezing rain|18072
+recent hail|18073
+recent rain|18074
+recent rain and snow|18075
+recent showers|18076
+recent snow|18077
+recent snow showers|18078
+recent thunderstorms|18079
+recently|18080
+reception|18081
+reciprocal|18082
+reciter|18083
+reclassified|18084
+reclassified class golf|18085
+reclassify|18086
+reclearance|18087
+record|18088
+recorded|18089
+recorder|18090
+recording|18091
+recovery|18092
+recur|18093
+red|18094
+Red Bull|18095
+Redcliff|18096
+Redden|18097
+Redden Creek|18098
+reduce|18099
+reduced|18100
+reduced length|18101
+reduced operating length|18102
+reduced operational length|18103
+reduced runway length|18104
+reduced runway lengths|18105
+reduced to|18106
+reduced to category|18107
+reduced vertical separation minimum|18108
+reduced width|18109
+reducing|18110
+reducing to|18111
+reduction|18112
+refer|18113
+refer NOTAM|18114
+refer NOTAMs|18115
+refer to AIP sup|18116
+refer to AIP supplement|18117
+refer to NOTAM|18118
+refer to NOTAMs|18119
+reference|18120
+refers|18121
+refinery|18122
+reflection|18123
+reflections|18124
+reflective|18125
+refuel|18126
+refuelled|18127
+refueller|18128
+refuelling|18129
+refuels|18130
+regarding|18131
+region|18132
+regional|18133
+regional forecasting centre|18134
+Regional Supplementary Procedures|18135
+regions|18136
+registration|18137
+regular|18138
+Regular Public Transport|18139
+regulation|18140
+regulations|18141
+reissue|18142
+reissued|18143
+reissuing|18144
+relational|18145
+relative|18146
+relative humidity|18147
+relay|18148
+relay to|18149
+release|18150
+released|18151
+releasing|18152
+relief|18153
+religious|18154
+religious festival|18155
+relocate|18156
+relocated|18157
+remain|18158
+remain inside|18159
+remain outside|18160
+remainder|18161
+remaining|18162
+remark|18163
+remarks|18164
+remote|18165
+reopen|18166
+reopening|18167
+reopens|18168
+repair|18169
+repaired|18170
+repairing|18171
+repairs|18172
+repeat|18173
+replace|18174
+replaced|18175
+replacing|18176
+report|18177
+report leaving|18178
+report reaching|18179
+reported|18180
+reported moderate overshoot wind shear|18181
+reported moderate undershoot wind shear|18182
+reported moderate wind shear|18183
+reported severe overshoot wind shear|18184
+reported severe undershoot wind shear|18185
+reported severe wind shear|18186
+reported wind|18187
+reporting|18188
+reporting point|18189
+reports|18190
+request|18191
+requested|18192
+requesting|18193
+requests|18194
+require|18195
+required|18196
+Required Navigation Performance|18197
+requirement|18198
+requirements|18199
+requires|18200
+requiring|18201
+reroute|18202
+rescue|18203
+Rescue and Fire Fighting Service|18204
+Rescue and Fire Fighting Services|18205
+rescue coordination centre|18206
+rescue sub centre|18207
+rescued|18208
+reserve|18209
+reserve fuel|18210
+reserved|18211
+reserved for|18212
+reserved for communications|18213
+reservoir|18214
+responder|18215
+responder beacon|18216
+response|18217
+rest|18218
+restore|18219
+restored|18220
+restoring|18221
+restricted|18222
+restricted area|18223
+restricted areas|18224
+restriction|18225
+restriction on taxiway|18226
+restrictions|18227
+resume|18228
+resumed|18229
+resuming|18230
+resumption|18231
+retransmit|18232
+retransmitted|18233
+return|18234
+return to service|18235
+returned|18236
+returned to service|18237
+returning|18238
+returns|18239
+reversal|18240
+reverse|18241
+reversed|18242
+reversing|18243
+reverts|18244
+reverts to|18245
+reverts to class golf|18246
+revetment|18247
+revetments|18248
+revetted|18249
+review|18250
+reviewed|18251
+reviewing|18252
+reviews|18253
+revolving|18254
+rewind|18255
+RF|18256
+RFF|18257
+RFF category|18258
+RFF reduced to category|18259
+Richmond|18260
+rifle|18261
+rifles|18262
+rig|18263
+rigged|18264
+right|18265
+right and centre|18266
+right and left|18267
+right base|18268
+right hand|18269
+right hand circuit|18270
+right hand side|18271
+right side|18272
+right side of runway|18273
+rigid|18274
+rigs|18275
+rime|18276
+ring|18277
+ripcord|18278
+rise|18279
+rising|18280
+rising dust|18281
+rising sand|18282
+river|18283
+RNAV|18284
+RNP|18285
+road|18286
+ROBEX|18287
+Rockbank|18288
+Rockdale|18289
+Rockhampton|18290
+ROFOR|18291
+roll|18292
+roll out zone|18293
+roller|18294
+rollers|18295
+Rolleston|18296
+Rollingstone|18297
+Roma|18298
+Romeo|18299
+Romeo 9 7 9|18300
+Roseberth|18301
+rotary|18302
+rotate|18303
+rotating|18304
+rotation|18305
+rotor|18306
+Rottnest Island|18307
+rough|18308
+Roulette|18309
+Roulettes|18310
+route|18311
+route forecast|18312
+route surveillance radar|18313
+routes|18314
+routine|18315
+royal|18316
+RPAS|18317
+RPI|18318
+RPT|18319
+RSAF|18320
+rules|18321
+run|18322
+running|18323
+runs|18324
+runup|18325
+runup bays|18326
+runway|18327
+runway arresting gear|18328
+runway centre line|18329
+runway centre line lights|18330
+runway edge|18331
+runway edge light|18332
+runway edge lights|18333
+runway end light|18334
+runway end lights|18335
+runway end point|18336
+runway end safety area|18337
+runway guard light|18338
+runway guard lights|18339
+runway in use|18340
+runway intersection|18341
+runway lead in lighting system|18342
+runway length|18343
+runway length reduced|18344
+runway point of intercept|18345
+runway strip|18346
+runway surface condition|18347
+runway surface conditions|18348
+runway threshold|18349
+runway threshold identification light|18350
+runway threshold identification lights|18351
+runway threshold light|18352
+runway threshold lights|18353
+runway touch down zone light|18354
+runway touch down zone lights|18355
+runway visibility|18356
+runway visual|18357
+runway visual range|18358
+runways|18359
+runways in use|18360
+runways intersection|18361
+RVR|18362
+S|19000
+S A R|19001
+Saab|19002
+safe|19003
+safety|19004
+Sale|19005
+Saltash|19006
+sand|19007
+sand or dust storm|19008
+sand storm|19009
+santa|19010
+SAR|19011
+Sarb|19012
+SARTIME|19013
+SATCOM|19014
+satellite|19015
+Saturday|19016
+Saturday and Sunday|19017
+Saturday Sunday and public holidays|19018
+save|19019
+saved|19020
+saving|19021
+scattered|19022
+SCATZ|19023
+schedule|19024
+scheduled|19025
+Scherger|19026
+school|19027
+scorch|19028
+screen|19029
+sea|19030
+seagulls|19031
+Seahawk|19032
+seal|19033
+sealed|19034
+search|19035
+search and rescue|19036
+search light|19037
+search lights|19038
+season|19039
+seasonal|19040
+seasonally|19041
+seaward|19042
+second|19043
+secondary|19044
+secondary surveillance radar|19045
+seconds|19046
+section|19047
+sections|19048
+sector|19049
+sectors|19050
+see|19051
+seen|19052
+SELCAL|19053
+selective|19054
+sensitive|19055
+sensitive and critical areas|19056
+sensitive and critical areas not protected|19057
+sensitive area|19058
+sensitive areas|19059
+sent|19060
+separation|19061
+September|19062
+sequence|19063
+sequenced|19064
+sequenced flashing lights|19065
+sequencing|19066
+sequential|19067
+served|19068
+service|19069
+serviceable|19070
+serviced|19071
+services|19072
+services for|19073
+servicing|19074
+set|19075
+several|19076
+severe|19077
+severe overshoot|19078
+severe turbulence|19079
+Severe turbulence advice current|19080
+severe undershoot|19081
+shall|19082
+shallow|19083
+shallow fog|19084
+shallow fog bank|19085
+shallow fog banks|19086
+shear|19087
+sheer|19088
+Shepparton|19089
+shielding|19090
+shift|19091
+shifted|19092
+shifting|19093
+ship|19094
+shipping|19095
+ships|19096
+shoot|19097
+shore|19098
+shore line|19099
+short|19100
+short haul|19101
+short of runway edge|19102
+short range|19103
+short take off and landing|19104
+shortage|19105
+shortages|19106
+shorter|19107
+shortest|19108
+should|19109
+show|19110
+shower|19111
+showers|19112
+showers in area|19113
+showers in vicinity|19114
+showers of hail|19115
+showers of ice pellets|19116
+showers of rain|19117
+showers of rain and snow|19118
+showers of small hail|19119
+showers of snow|19120
+showing|19121
+shows|19122
+shrine|19123
+SID|19124
+side|19125
+side line|19126
+side line light|19127
+side line lighting|19128
+side line lights|19129
+side stripe|19130
+side stripes|19131
+side wind|19132
+sideband|19133
+sides|19134
+SIDs|19135
+Sierra|19136
+sig|19137
+sight|19138
+sighted|19139
+sighting|19140
+SIGMET|19141
+SIGMET current|19142
+SIGMETs|19143
+sign|19144
+significant|19145
+significant weather|19146
+signs|19147
+silver|19148
+similar|19149
+SIMOPS|19150
+SIMOPS in progress|19151
+SIMOPS in use|19152
+simple approach lighting system|19153
+simultaneous|19154
+simultaneous opposite direction|19155
+simultaneous opposite direction operations|19156
+simultaneous opposite direction parallel runway operations|19157
+simultaneous parallel runway operations|19158
+simultaneously|19159
+Singapore|19160
+Singapore Airlines|19161
+Singaporean|19162
+single|19163
+single pilot|19164
+single sideband|19165
+site|19166
+situation|19167
+situation report|19168
+size|19169
+sky|19170
+sky clear|19171
+sky condition|19172
+Sky may be obscured|19173
+Sky obscured|19174
+slash|19175
+sleet|19176
+slick|19177
+slicks|19178
+slight|19179
+slippery|19180
+slope|19181
+slopes|19182
+slot|19183
+slots|19184
+slow|19185
+slower|19186
+slowest|19187
+slowly|19188
+small|19189
+smaller|19190
+smallest|19191
+SMC|19192
+SMCV|19193
+Smithton|19194
+smoke|19195
+smoke haze|19196
+SMR|19197
+snake|19198
+snakes|19199
+snow|19200
+snow grains|19201
+snow patches|19202
+snow pellets|19203
+snow showers|19204
+SNOWTAM|19205
+sock|19206
+SODPROPS|19207
+SOFAL|19208
+soft|19209
+soft hail|19210
+soft wet surface|19211
+soil|19212
+solar|19213
+solo|19214
+SOLUS|19215
+some|19216
+soon|19217
+south|19218
+south and east|19219
+south and south east|19220
+south and south west|19221
+south and west|19222
+South Australia|19223
+south east|19224
+south easterly|19225
+south south east|19226
+south south west|19227
+south west|19228
+south westerly|19229
+southbound|19230
+southerly|19231
+southern|19232
+space|19233
+spaced|19234
+spacing|19235
+span|19236
+SPECI|19237
+SPECI for|19238
+special|19239
+specific|19240
+specific preflight information bulletin|19241
+specified|19242
+speed|19243
+speed limiting point|19244
+SPFIB|19245
+spill|19246
+sport|19247
+sport aviation|19248
+spot|19249
+spot wind|19250
+spotting|19251
+spray|19252
+spring|19253
+springs|19254
+Springvale|19255
+sprite|19256
+squadron|19257
+squadrons|19258
+squall|19259
+squalls|19260
+squawk|19261
+squawk code|19262
+squawk ident|19263
+squawking|19264
+Squirrel|19265
+SRR|19266
+SSR|19267
+stable|19268
+stack|19269
+staff|19270
+staff shortage|19271
+staffed|19272
+staffing|19273
+stage|19274
+stages|19275
+stanchion|19276
+standard|19277
+standard arrival route|19278
+standard departure clearance|19279
+standard instrument departure|19280
+standard radar departure|19281
+standards|19282
+standby|19283
+standing|19284
+Stanthorpe|19285
+STAR|19286
+starboard|19287
+starlings|19288
+stars|19289
+start|19290
+start approval|19291
+start approval required|19292
+start approvals|19293
+start clearance|19294
+start clearance request|19295
+start clearance required|19296
+start clearances|19297
+start clearances required|19298
+start of climb|19299
+start of take off|19300
+start of take off run|19301
+start up|19302
+start up approval|19303
+start up approval required|19304
+start up approvals|19305
+start up clearance|19306
+start up clearances|19307
+started|19308
+starter|19309
+starting|19310
+starts|19311
+static|19312
+station|19313
+station level pressure|19314
+Station Pier|19315
+stationary|19316
+stations|19317
+status|19318
+steady|19319
+steel|19320
+steel plank|19321
+step|19322
+steps|19323
+stereo|19324
+still|19325
+stock|19326
+Stonehenge|19327
+stones|19328
+stop|19329
+stop distance|19330
+stop end zone|19331
+stopped|19332
+stopping|19333
+stops|19334
+stopway|19335
+stopway light|19336
+stopway lights|19337
+storm|19338
+storm cells|19339
+storms|19340
+Strahan|19341
+straight|19342
+straight in|19343
+straight in approach|19344
+Strathbogie|19345
+Strathburn|19346
+stratiform|19347
+strato|19348
+stratocumulus|19349
+stratus|19350
+stratus on the ranges|19351
+stratusform|19352
+strength|19353
+strengthen|19354
+strengthened|19355
+strengthening|19356
+strip|19357
+stripe|19358
+strobe|19359
+strobe light|19360
+strobe lights|19361
+strong|19362
+strong overshoot|19363
+strong undershoot|19364
+stub|19365
+stud|19366
+sub|19367
+sub centre|19368
+subject|19369
+subject to|19370
+suitable|19371
+sun|19372
+sun glare|19373
+Sunbury|19374
+Sunday|19375
+sunlight|19376
+sunrise|19377
+sunrise to sunset|19378
+sunset|19379
+sunset to sunrise|19380
+sunshine|19381
+super|19382
+supercedes|19383
+supercooled|19384
+supersonic|19385
+supersonic transport|19386
+supervisor|19387
+supplement|19388
+supplementary|19389
+supplementary take off distance|19390
+supplied|19391
+supplies|19392
+supply|19393
+support|19394
+SURAT|19395
+surface|19396
+surface condition|19397
+surface conditions|19398
+surface movement|19399
+surface movement control|19400
+surface movement control vehicles|19401
+surface movement guidance|19402
+surface movement radar|19403
+surveillance|19404
+survey|19405
+survey operations|19406
+surveyors|19407
+survival|19408
+survive|19409
+surviving|19410
+suspended|19411
+swallows|19412
+swarm|19413
+swarms|19414
+sweeper|19415
+swell|19416
+swifts|19417
+swing|19418
+swirling|19419
+switch|19420
+Sydenham|19421
+Sydney|19422
+synop|19423
+system|19424
+systems|19425
+T|20000
+T-VASIS|20001
+TAC|20002
+TACAN|20003
+TAF|20004
+TAF for|20005
+tail|20006
+tail wind|20007
+take|20008
+take off|20009
+take off and landing|20010
+take off distance available|20011
+take off run available|20012
+take off weight|20013
+take offs|20014
+taken|20015
+taking|20016
+tall|20017
+taller|20018
+tallest|20019
+Tamworth|20020
+Tanbar|20021
+Tango|20022
+tanker|20023
+TAR|20024
+Taree|20025
+target|20026
+targeting|20027
+targets|20028
+tarmac|20029
+Taroom|20030
+TAS|20031
+Tasmania|20032
+TAST|20033
+TAT|20034
+taxi|20035
+taxi slot|20036
+taxiing|20037
+taxiing guidance system|20038
+taxilane|20039
+taxiway|20040
+Taxiway Alpha|20041
+Taxiway Bravo|20042
+Taxiway Charlie|20043
+Taxiway Delta|20044
+Taxiway Echo|20045
+Taxiway Foxtrot|20046
+Taxiway Golf|20047
+Taxiway Hotel|20048
+Taxiway India|20049
+Taxiway Juliet|20050
+Taxiway Kilo|20051
+Taxiway Lima|20052
+taxiway link|20053
+Taxiway Sierra|20054
+Taxiway Uniform|20055
+taxiways|20056
+taxy|20057
+TCAS|20058
+team|20059
+teams|20060
+technical|20061
+technical problem|20062
+technical problems|20063
+technical reason|20064
+technical reasons|20065
+tee|20066
+telephone|20067
+Telfer|20068
+Temora|20069
+temperature|20070
+temperatures|20071
+TEMPO|20072
+temporarily|20073
+temporary|20074
+temporary reserved airspace|20075
+temporary restricted area|20076
+tend|20077
+tendency|20078
+tending|20079
+tending to|20080
+Tennant Creek|20081
+term|20082
+terminal|20083
+terminal area|20084
+terminal area chart|20085
+terminal area forecast|20086
+terminal area forecast for|20087
+terminal area radar|20088
+terminal area severe turbulence|20089
+terminal area surveillance radar|20090
+terminal area thunderstorm service|20091
+terminal control area|20092
+terminal information|20093
+terminal information Zulu|20094
+terminate|20095
+terminated|20096
+terrain|20097
+terrain following radar|20098
+terrorist|20099
+terrorists|20100
+test|20101
+tested|20102
+testing|20103
+tests|20104
+tethered|20105
+than|20106
+Thangool|20107
+Thank you|20108
+that|20109
+the|20110
+the Barwon Prison arrival procedure|20111
+the provision of separation and control|20112
+then|20113
+then independent visual approach when visual|20114
+there|20115
+thick|20116
+thin|20117
+third|20118
+thirds|20336
+this|20119
+This is|20120
+This was|20121
+thousand|20122
+threshold|20123
+threshold crossing height|20124
+threshold displaced|20125
+threshold identification light|20126
+threshold identification lights|20127
+threshold light|20128
+threshold lights|20129
+threshold normal|20130
+threshold temporarily displaced|20131
+threshold wind|20132
+threshold winds|20133
+thresholds|20134
+through|20135
+throughout|20136
+thunder|20137
+thunderstorm|20138
+thunderstorms|20139
+thunderstorms in area|20140
+thunderstorms with dust storm|20141
+thunderstorms with hail|20142
+thunderstorms with ice pellets|20143
+thunderstorms with rain|20144
+thunderstorms with snow|20145
+Thursday|20146
+TIBA|20147
+till|20148
+time|20149
+time allocation|20150
+Time check|20151
+time limited|20152
+time of arrival|20153
+time of departure|20154
+times|20155
+Tindal|20156
+TMA|20157
+to|20158
+to acknowledge receipt|20159
+to acknowledge receipt of this instruction|20160
+to aircraft|20161
+to aircraft under power|20162
+to be advised|20163
+to contact|20164
+to east|20165
+to east and north|20166
+to east and north east|20167
+to east and south|20168
+to east and south east|20169
+to edge|20170
+to north|20171
+to north and east|20172
+to north and north east|20173
+to north and north west|20174
+to north and west|20175
+to north east|20176
+to north west|20177
+to operationally required departures|20178
+to south|20179
+to south and east|20180
+to south and south east|20181
+to south and south west|20182
+to south and west|20183
+to south east|20184
+to south west|20185
+to the|20186
+to the east|20187
+to the east and north|20188
+to the east and north east|20189
+to the east and south|20190
+to the east and south east|20191
+to the edge|20192
+to the north|20193
+to the north and east|20194
+to the north and north east|20195
+to the north and north west|20196
+to the north and west|20197
+to the north east|20198
+to the north west|20199
+to the runway edge|20200
+to the south|20201
+to the south and east|20202
+to the south and south east|20203
+to the south and south west|20204
+to the south and west|20205
+to the south east|20206
+to the south west|20207
+to the west|20208
+to the west and north|20209
+to the west and north west|20210
+to the west and south|20211
+to the west and south west|20212
+to use|20213
+to west|20214
+to west and north|20215
+to west and north west|20216
+to west and south|20217
+to west and south west|20218
+today|20219
+toggle|20220
+toggle wings|20221
+tomorrow|20222
+tonight|20223
+too|20224
+tools|20225
+Tooronga Village|20226
+Toowoomba|20227
+top|20228
+top of climb|20229
+tops|20230
+TORA|20231
+tornado|20232
+touch|20233
+touch and go|20234
+touch and go landing|20235
+touch down|20236
+touch down zone|20237
+touch down zone light|20238
+touch down zone lighting|20239
+touch down zone lights|20240
+tow|20241
+toward|20242
+towards|20243
+towed|20244
+tower|20245
+Tower closed until|20246
+tower communications disruption|20247
+tower evacuated|20248
+tower is closed|20249
+tower or approach|20250
+tower or Brisbane approach|20251
+tower or Melbourne approach|20252
+tower or Sydney approach|20253
+tower services|20254
+towering|20255
+towering cumulus|20256
+towering cumulus in area|20257
+towing|20258
+town|20259
+towns|20260
+township|20261
+Townsville|20262
+TRA|20263
+track|20264
+track for straight in approach|20265
+tracked|20266
+tracking|20267
+tracks|20268
+tractor|20269
+tractors|20270
+traffic|20271
+Traffic alert and collision avoidance system|20272
+traffic information|20273
+traffic information broadcast|20274
+traffic information broadcasts|20275
+traffic restrictions apply|20276
+train|20277
+trainers|20278
+training|20279
+trample|20280
+trampling|20281
+transfer|20282
+transferred|20283
+transiting|20284
+transition|20285
+transition altitude|20286
+transition level|20287
+transitional|20288
+transitional surface|20289
+transmission|20290
+transmissions|20291
+transmit|20292
+transmits|20293
+transmitter|20294
+transmitting|20295
+transponder|20296
+transponder testing|20297
+transport|20298
+Trelawney|20299
+trend|20300
+trend type forecast|20301
+tri|20302
+trial|20303
+trials|20304
+tropical|20305
+tropical cyclone|20306
+tropical cyclone advisory centre|20307
+tropopause|20308
+trough|20309
+truck|20310
+trucks|20311
+true|20312
+true air speed|20313
+tsunami|20314
+tsunami warning|20315
+TTF|20316
+TTF metar|20317
+TTF metar for|20318
+TTF speci|20319
+TTF speci for|20320
+Tuesday|20321
+tug|20322
+tugs|20323
+turbine|20324
+turbo|20325
+turbulence|20326
+turn|20327
+turn altitude|20328
+turn height|20329
+turning|20330
+turning point|20331
+twin|20332
+type|20333
+types|20334
+typhoon|20335
+U|21000
+uce|21001
+UDF|21002
+UHF|21003
+Ulaan|21004
+Ulconbah|21005
+ultra|21006
+ultralight|21007
+ultralights|21008
+unable|21009
+unable to approve|21010
+unable to comply|21011
+unauthorised|21012
+unauthorised laser illumination event|21013
+unauthorised laser illumination events|21014
+unavailable|21015
+uncertain|21016
+uncertainty|21017
+unchanged|21018
+uncontrolled|21019
+under|21020
+undershoot|21021
+uneven|21022
+unforecast|21023
+unforecast deterioration|21024
+ungrooved|21025
+uni|21026
+Uniform|21027
+unit|21028
+units|21029
+universal|21030
+unknown|21031
+unknown precipitation|21032
+unless|21033
+unless holding point|21034
+unlicensed|21035
+unlimited|21036
+unlit|21037
+unmanned|21038
+unnamed|21039
+unreliable|21040
+unserviceable|21041
+unstable|21042
+until|21043
+until advised by|21044
+until further notice|21045
+until past|21046
+up|21047
+up draft|21048
+up to|21049
+up to and including|21050
+up to the|21051
+up to the edge|21052
+up wind|21053
+update|21054
+updated|21055
+updating|21056
+upgrade|21057
+upgraded|21058
+upgraded to|21059
+upper|21060
+upper control area|21061
+upper flight information region|21062
+upper limits|21063
+Urandangi|21064
+usable|21065
+USAF|21066
+use|21067
+use alternate frequency|21068
+used|21069
+using|21070
+USMC|21071
+UTC|21072
+V|22000
+vacate|22001
+vacated|22002
+vacating|22003
+valid|22004
+valley|22005
+valleys|22006
+value|22007
+valve|22008
+Vanrook|22009
+variable|22010
+variable between|22011
+variable to|22012
+variation|22013
+varies|22014
+vary|22015
+varying|22016
+varying between|22017
+VASI|22018
+VASIS|22019
+vector|22020
+vectored|22021
+vectoring|22022
+vectors|22023
+vee|22024
+vehicle|22025
+vehicles|22026
+vehicular|22027
+vertical|22028
+vertical manoeuvres|22029
+vertical take off and landing|22030
+vertical visibility|22031
+vertical wind shear|22032
+very|22033
+very long range|22034
+very low frequency|22035
+VFR|22036
+VFR aircraft|22037
+VFR arrivals|22038
+VFR departures|22039
+VHF|22040
+via|22041
+via left base|22042
+via right base|22043
+vicinity|22044
+Victor|22045
+Victoria|22046
+VIP|22047
+virga|22048
+Virgin|22049
+Virgin Blue|22050
+visibility|22051
+visibility reduced to|22052
+visible|22053
+vision|22054
+visit|22055
+visiting|22056
+visual|22057
+visual approach|22058
+visual range|22059
+visually|22060
+VLF|22061
+VMC|22062
+voice|22063
+volcanic|22064
+volcanic ash|22065
+volcanic ash advisory centre|22066
+volcano|22067
+volmet|22068
+volmet out|22069
+VOR|22070
+vortac|22071
+W|23000
+Wagga|23001
+Wagga Wagga|23002
+wait|23003
+waiting|23004
+wake|23005
+Walgett|23006
+Wangaratta|23007
+warm|23008
+warn|23009
+warned|23010
+warning|23011
+warnings|23012
+Warracknabeal|23013
+Warrandyte|23014
+Warrnambool|23015
+warship|23016
+Warwick|23017
+was|23018
+wash|23019
+watch|23020
+water|23021
+water patches|23022
+water spout|23023
+wave|23024
+waves|23025
+way|23026
+waypoint|23027
+weak|23028
+weaken|23029
+weakening|23030
+weapons|23031
+weather|23032
+weather and terminal information reciter|23033
+weather observation|23034
+Wednesday|23035
+week|23036
+weekend|23037
+weight|23038
+Weipa|23039
+well|23040
+well developed|23041
+Wellington|23042
+Werribee|23043
+Werribee South|23044
+west|23045
+west and north|23046
+west and north west|23047
+west and south|23048
+west and south west|23049
+West Australia|23050
+west north west|23051
+west south west|23052
+westbound|23053
+westerly|23054
+western|23055
+Westgate|23056
+Westgate Bridge|23057
+wet|23058
+wet bulb depression|23059
+when|23060
+when reporting ready|23061
+when required|23062
+when taxiing|23063
+when taxiing or vacating a runway|23064
+when visual|23065
+where|23066
+while|23067
+whirls|23068
+Whisky|23069
+white|23070
+whole|23150
+Whyalla|23071
+wide|23072
+widespread|23073
+widespread dust|23074
+width|23075
+wildlife|23076
+will|23077
+will be|23078
+will be required to|23079
+will be required to back track|23080
+Williamsons|23081
+Williamstown|23082
+Williamtown|23083
+Willowbank|23084
+Willy|23085
+Willytown|23086
+wind|23087
+wind at up wind end|23088
+wind direction|23089
+wind direction indicator|23090
+wind indicator|23091
+wind reported at|23092
+wind shear|23093
+wind shear alert|23094
+wind shear for landing|23095
+wind shear for take off|23096
+wind shear landing|23097
+wind shear take off|23098
+wind shear warning|23099
+wind speed|23100
+winding|23101
+Windorah|23102
+winds|23103
+winds and temperatures|23104
+windscreen|23105
+windscreens|23106
+windsock|23107
+windsocks|23108
+windy|23109
+wing|23110
+wings|23111
+wingspan|23112
+wire|23113
+wires|23114
+with|23115
+with a flight number|23116
+with effect from|23117
+with immediate effect|23118
+with radar vectoring|23119
+withdrawn|23120
+within|23121
+within 3 0 DME|23122
+within control area|23123
+within control zone|23124
+within controlled airspace|23125
+within controlled area|23126
+within runway|23127
+within runway strip|23128
+within the runway strip|23129
+without|23130
+Wollongong|23131
+wombat|23132
+Wondai|23133
+Wondoola|23134
+Woodstock|23135
+Woomera|23136
+work|23137
+work in progress|23138
+workers|23139
+workers and equipment|23140
+working|23141
+workmen|23142
+works|23143
+world|23144
+world area forecast centre|23145
+world wide web|23146
+Wyalong|23147
+Wyandra|23148
+Wynyard|23149
+X|24000
+X-ray|24001
+Y|25000
+Yan Yean|25001
+Yan Yean Reservoir|25002
+Yankee|25003
+Yaraka|25004
+year|25005
+yellow|25006
+yellow caution zone|25007
+you|25008
+your|25009
+yours|25010
+Yuendumu|25011
+Z|26000
+zero|26001
+zone|26002
+zones|26003
+Zulu|26004
